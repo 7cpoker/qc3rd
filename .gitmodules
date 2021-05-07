@@ -1,3 +1,6 @@
 [submodule "lua-cjson-master"]
 	path = lua-cjson-master
 	url = git@github.com:7cpoker/lua-cjson-master.git
+[submodule "luafilesystem"]
+	path = luafilesystem
+	url = git@github.com:7cpoker/luafilesystem.git
