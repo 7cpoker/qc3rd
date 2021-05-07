@@ -4,3 +4,6 @@
 [submodule "luafilesystem"]
 	path = luafilesystem
 	url = git@github.com:7cpoker/luafilesystem.git
+[submodule "pbc"]
+	path = pbc
+	url = git@github.com:7cpoker/pbc.git
