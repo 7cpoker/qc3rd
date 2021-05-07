@@ -7,3 +7,6 @@
 [submodule "pbc"]
 	path = pbc
 	url = git@github.com:7cpoker/pbc.git
+[submodule "lua-cjson"]
+	path = lua-cjson
+	url = git@github.com:7cpoker/lua-cjson.git
